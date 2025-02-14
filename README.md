@@ -1,4 +1,4 @@
-# arm-jestnano-wheel
+# arm-jetson-nano-wheel
 save PyTorch tensorRT wheel with Python3.9 in jetson Nano by myself
 
 Tip: Build PyTorch in jetson Nano is a hell (need many days to Build)
